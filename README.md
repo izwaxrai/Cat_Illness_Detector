@@ -1,4 +1,4 @@
-🐾 Cat Health Assistant (LoRA GPT-2 + Symptom Predictor)
+#🐾 Cat Health Assistant (LoRA GPT-2 + Symptom Predictor)
 A hybrid app that
 
 predicts possible illnesses from breed + symptom similarity, and
